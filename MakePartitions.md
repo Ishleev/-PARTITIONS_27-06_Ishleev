@@ -10,6 +10,7 @@
 6. Follow the same steps for making more partitions in the hard drive.
    **
 
+![Screenshot 2025-06-27 111911](https://github.com/user-attachments/assets/9172f1a4-defa-48ba-acb4-d29adab9f16e)
 
 
    
