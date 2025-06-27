@@ -6,3 +6,5 @@
 3.In settings, go to SCSI Controller, where we can see the option of adding Hard Drive. ADD it.
 4.After clicking the ADD option, we have to do some settings like, choose the size of the drive, name, disk type and loctaion of the drive.
 5. After doing that all, our hard drive will be made. 
+
+![Screenshot 2025-06-27 110206](https://github.com/user-attachments/assets/5ea9db38-ba09-4c71-ac11-760e88417759)
